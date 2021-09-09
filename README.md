@@ -1,6 +1,6 @@
 # infosatc-lp-avaliativo-02
  
-<img src="logoSatc">
+<img src="logoSatc.png">
 
 # Nome do aluno: Matheus Da Silva Gastaldi
 
